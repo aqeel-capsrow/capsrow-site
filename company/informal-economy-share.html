@@ -6,53 +6,100 @@
 <title>In most of the Global South, informal work is the work. - capsrow</title>
 <meta name="description" content="The informal economy is not the exception in the Global South - it is the economy.">
 <link rel="canonical" href="https://data.capsrow.com/company/informal-economy-share.html">
+<link rel="icon" type="image/png" href="/assets/favicon.png">
+<link rel="apple-touch-icon" href="/assets/logo.png">
 <meta property="og:title" content="In most of the Global South, informal work is the work. - capsrow">
 <meta property="og:description" content="The informal economy is not the exception in the Global South - it is the economy.">
 <meta property="og:type" content="article">
-<meta name="robots" content="index,follow">
+<meta property="og:site_name" content="capsrow">
+<meta property="og:image" content="https://data.capsrow.com/assets/logo.png">
+<meta name="robots" content="index,follow,max-image-preview:large">
 <style>
-:root{--bg:#f8f5ef;--ink:#1a1a1a;--wine:#6a1b1b;--grey:#8a8a8a}
+:root{--bg:#f8f5ef;--ink:#1a1a1a;--wine:#6a1b1b;--grey:#8a8a8a;--line:#e6e0d3;
+ --serif:'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif;
+ --sans:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif}
 *{box-sizing:border-box}
-body{background:var(--bg);color:var(--ink);margin:0;
- font:18px/1.6 Georgia,'Times New Roman',serif;-webkit-font-smoothing:antialiased}
-.wrap{max-width:720px;margin:0 auto;padding:40px 22px 80px}
+html{-webkit-text-size-adjust:100%}
+body{background:var(--bg);color:var(--ink);margin:0;font:19px/1.66 var(--serif);
+ -webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
 a{color:var(--wine)}
-header nav{font:13px/1.4 -apple-system,system-ui,sans-serif;color:var(--grey);
- letter-spacing:.02em;margin-bottom:34px}
-header nav a{color:var(--grey);text-decoration:none}
-h1{font-size:34px;line-height:1.18;margin:0 0 10px;font-weight:700}
-.lead{font-size:22px;line-height:1.45;margin:0 0 8px}
-.kicker{font:12px/1.4 -apple-system,system-ui,sans-serif;text-transform:uppercase;
- letter-spacing:.12em;color:var(--wine);margin:0 0 14px}
-.facts{list-style:none;padding:0;margin:30px 0;border-top:1px solid #e3ddd0}
-.facts li{padding:18px 0;border-bottom:1px solid #e3ddd0}
-.facts .v{font-size:26px;font-weight:700;color:var(--wine);display:block}
-.facts .l{font-size:17px}
-.facts .s{font:12px/1.4 -apple-system,system-ui,sans-serif;color:var(--grey);
- display:block;margin-top:5px}
-.thesis{font-size:21px;font-style:italic;border-left:3px solid var(--wine);
- padding:4px 0 4px 20px;margin:30px 0}
-.body p{margin:0 0 16px}
-.sources{font:13px/1.6 -apple-system,system-ui,sans-serif;color:var(--grey);
- margin-top:36px;border-top:1px solid #e3ddd0;padding-top:16px}
-.grid{list-style:none;padding:0;margin:24px 0}
-.grid li{padding:14px 0;border-bottom:1px solid #e3ddd0}
-.grid a{text-decoration:none;font-size:20px;font-weight:600}
-.grid .m{display:block;font:13px/1.4 -apple-system,system-ui,sans-serif;
- color:var(--grey);margin-top:3px}
-.lesson{margin:26px 0}
-.lesson h3{font-size:20px;margin:0 0 6px}
-.lesson blockquote{margin:0 0 8px;font-style:italic;color:var(--wine)}
-footer{font:13px/1.5 -apple-system,system-ui,sans-serif;color:var(--grey);
- margin-top:60px}
-footer .cap{color:var(--ink);font-weight:600}
+.wrap{max-width:756px;margin:0 auto;padding:48px 22px 26px}
+
+/* masthead */
+.masthead{border-bottom:1px solid var(--line);background:var(--bg)}
+.masthead .in{max-width:756px;margin:0 auto;padding:19px 22px;display:flex;
+ align-items:center;justify-content:space-between}
+.brand{display:flex;align-items:center;gap:11px;text-decoration:none;color:var(--ink)}
+.brand img{width:29px;height:29px;display:block}
+.brand .wm{font:600 21px/1 var(--serif);letter-spacing:.005em}
+.mnav{font:11px/1 var(--sans);letter-spacing:.15em;text-transform:uppercase}
+.mnav a{color:var(--grey);text-decoration:none;margin-left:22px}
+.mnav a:hover{color:var(--wine)}
+
+.crumb{font:11px/1.5 var(--sans);letter-spacing:.09em;text-transform:uppercase;
+ color:var(--grey);margin:0 0 30px}
+.crumb a{color:var(--grey);text-decoration:none}
+.crumb a:hover{color:var(--wine)}
+.kicker{font:11px/1.4 var(--sans);text-transform:uppercase;letter-spacing:.16em;
+ color:var(--wine);margin:0 0 15px}
+h1{font:700 37px/1.16 var(--serif);margin:0 0 15px;letter-spacing:-.012em}
+.lead{font:400 23px/1.5 var(--serif);margin:0 0 6px;color:#2c2a28}
+
+.facts{list-style:none;padding:0;margin:34px 0;border-top:1px solid var(--line)}
+.facts li{padding:20px 0;border-bottom:1px solid var(--line)}
+.facts .v{font:700 27px/1.15 var(--serif);color:var(--wine);display:block;
+ letter-spacing:-.01em}
+.facts .l{font-size:17px;line-height:1.5}
+.facts .s{font:12px/1.4 var(--sans);color:var(--grey);display:block;margin-top:6px}
+.thesis{font:italic 400 21px/1.5 var(--serif);border-left:2px solid var(--wine);
+ padding:2px 0 2px 22px;margin:34px 0;color:#2c2a28}
+.body p{margin:0 0 17px}
+.sources{font:13px/1.65 var(--sans);color:var(--grey);margin-top:40px;
+ border-top:1px solid var(--line);padding-top:18px}
+.grid{list-style:none;padding:0;margin:26px 0;border-top:1px solid var(--line)}
+.grid li{padding:16px 0;border-bottom:1px solid var(--line)}
+.grid a{text-decoration:none;font:600 20px/1.3 var(--serif);color:var(--ink)}
+.grid a:hover{color:var(--wine)}
+.grid .m{display:block;font:12px/1.4 var(--sans);letter-spacing:.06em;
+ text-transform:uppercase;color:var(--grey);margin-top:4px}
+h2{font:700 15px/1.4 var(--sans);letter-spacing:.1em;text-transform:uppercase;
+ color:var(--grey);margin:44px 0 0}
+.lesson{margin:30px 0}
+.lesson h3{font:700 21px/1.3 var(--serif);margin:0 0 8px}
+.lesson blockquote{margin:0 0 10px;font-style:italic;color:var(--wine);
+ font-size:20px;line-height:1.45}
+
+/* footer */
+footer{border-top:1px solid var(--line);margin-top:66px}
+footer .in{max-width:756px;margin:0 auto;padding:42px 22px 66px}
+.f-brand{display:flex;align-items:center;gap:11px;margin:0 0 13px}
+.f-brand img{width:26px;height:26px;display:block}
+.f-brand .wm{font:600 19px/1 var(--serif)}
+.f-tag{font:15px/1.55 var(--sans);color:var(--grey);max-width:33em;margin:0 0 24px}
+.social{display:flex;gap:17px;margin:0 0 22px}
+.social a{color:var(--ink);opacity:.72;transition:opacity .15s ease,color .15s ease;
+ display:inline-flex}
+.social a:hover{color:var(--wine);opacity:1}
+.social svg{width:21px;height:21px;display:block;fill:currentColor}
+.f-links{font:12px/1.7 var(--sans);letter-spacing:.06em;text-transform:uppercase}
+.f-links a{color:var(--grey);text-decoration:none;margin-right:20px}
+.f-links a:hover{color:var(--wine)}
+
+@media(max-width:600px){
+ body{font-size:18px}
+ h1{font-size:30px}.lead{font-size:20px}
+ .wrap{padding-top:38px}
+ .mnav a{margin-left:15px}
+ .brand .wm{font-size:19px}
+}
 </style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "In most of the Global South, informal work is the work.", "description": "The informal economy is not the exception in the Global South - it is the economy.", "about": {"@type": "Organization", "name": "In most of the Global South, informal work is the work."}, "publisher": {"@type": "Organization", "name": "capsrow"}, "url": "https://data.capsrow.com/company/informal-economy-share.html", "inLanguage": "en", "datePublished": "2026-08-03"}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "In most of the Global South, informal work is the work.: Share of workers in informal employment, by region.", "acceptedAnswer": {"@type": "Answer", "text": "In most of the Global South, informal work is the work.. Share of workers in informal employment, by region. Source: ILO, Women and Men in the Informal Economy, 2023."}}, {"@type": "Question", "name": "In most of the Global South, informal work is the work.: Share of global employment that is informal, 2024.", "acceptedAnswer": {"@type": "Answer", "text": "Six in ten of the world's workers are informal.. Share of global employment that is informal, 2024. Source: ILO World Employment and Social Outlook, 2024."}}, {"@type": "Question", "name": "In most of the Global South, informal work is the work.: Informal employment as a share of all workers, by country income group.", "acceptedAnswer": {"@type": "Answer", "text": "The lower the income, the more the economy runs off the books.. Informal employment as a share of all workers, by country income group. Source: ILO, low- and high-income modelled estimates, 2024."}}, {"@type": "Question", "name": "In most of the Global South, informal work is the work.: Share of workers in informal employment, Africa, 2023.", "acceptedAnswer": {"@type": "Answer", "text": "In Africa, more than eight in ten jobs sit outside the formal ledger.. Share of workers in informal employment, Africa, 2023. Source: ILO, Women and Men in the Informal Economy, 2023."}}]}</script>
 </head>
-<body><div class="wrap">
-<header><nav><a href="/">capsrow</a> / <a href="/corridor/global-south.html">the Global South</a></nav></header><p class="kicker">Invisible Giant</p><h1>In most of the Global South, informal work is the work.</h1><p class="lead">The informal economy is not the exception in the Global South - it is the economy.</p><ul class="facts"><li><span class="v">In most of the Global South, informal work is the work.</span><span class="l">Share of workers in informal employment, by region.</span><span class="s">Source: ILO, Women and Men in the Informal Economy, 2023.</span></li><li><span class="v">Six in ten of the world&#x27;s workers are informal.</span><span class="l">Share of global employment that is informal, 2024.</span><span class="s">Source: ILO World Employment and Social Outlook, 2024.</span></li><li><span class="v">The lower the income, the more the economy runs off the books.</span><span class="l">Informal employment as a share of all workers, by country income group.</span><span class="s">Source: ILO, low- and high-income modelled estimates, 2024.</span></li><li><span class="v">In Africa, more than eight in ten jobs sit outside the formal ledger.</span><span class="l">Share of workers in informal employment, Africa, 2023.</span><span class="s">Source: ILO, Women and Men in the Informal Economy, 2023.</span></li></ul><div class="body"><p>The informal economy is not the exception in the Global South - it is the economy.</p><p>Across Africa, more than eight in ten workers earn outside the formal ledger. In the Arab States and across Asia and the Pacific, it is close to seven in ten. These are the customers no bank statement ever described and no credit bureau ever scored - market traders, ride-hailing drivers, corner-shop owners paid in cash at the end of the day.</p><p>The infrastructure that reaches them cannot be a copy of the one built for salaried workers.</p><p>This is the market that the next layer of Global South rails is being built to serve.</p></div><div class="sources"><strong>Sources.</strong> Source: ILO, Women and Men in the Informal Economy, 2023. Source: ILO World Employment and Social Outlook, 2024. Source: ILO, low- and high-income modelled estimates, 2024.</div>
-<footer><span class="cap">capsrow</span><br>
-The Global South, told through its own financial infrastructure.<br>
-<a href="/">All topics</a></footer>
-</div></body></html>
+<body>
+<div class="masthead"><div class="in"><a class="brand" href="/"><img src="/assets/logo.png" alt="capsrow" width="29" height="29"><span class="wm">capsrow</span></a><nav class="mnav"><a href="/">Topics</a><a href="https://capsrow.substack.com">Substack</a></nav></div></div>
+<div class="wrap">
+<div class="crumb"><a href="/">capsrow</a> &nbsp;/&nbsp; <a href="/corridor/global-south.html">the Global South</a></div><p class="kicker">Invisible Giant</p><h1>In most of the Global South, informal work is the work.</h1><p class="lead">The informal economy is not the exception in the Global South - it is the economy.</p><ul class="facts"><li><span class="v">In most of the Global South, informal work is the work.</span><span class="l">Share of workers in informal employment, by region.</span><span class="s">Source: ILO, Women and Men in the Informal Economy, 2023.</span></li><li><span class="v">Six in ten of the world&#x27;s workers are informal.</span><span class="l">Share of global employment that is informal, 2024.</span><span class="s">Source: ILO World Employment and Social Outlook, 2024.</span></li><li><span class="v">The lower the income, the more the economy runs off the books.</span><span class="l">Informal employment as a share of all workers, by country income group.</span><span class="s">Source: ILO, low- and high-income modelled estimates, 2024.</span></li><li><span class="v">In Africa, more than eight in ten jobs sit outside the formal ledger.</span><span class="l">Share of workers in informal employment, Africa, 2023.</span><span class="s">Source: ILO, Women and Men in the Informal Economy, 2023.</span></li></ul><div class="body"><p>The informal economy is not the exception in the Global South - it is the economy.</p><p>Across Africa, more than eight in ten workers earn outside the formal ledger. In the Arab States and across Asia and the Pacific, it is close to seven in ten. These are the customers no bank statement ever described and no credit bureau ever scored - market traders, ride-hailing drivers, corner-shop owners paid in cash at the end of the day.</p><p>The infrastructure that reaches them cannot be a copy of the one built for salaried workers.</p><p>This is the market that the next layer of Global South rails is being built to serve.</p></div><div class="sources"><strong>Sources.</strong> Source: ILO, Women and Men in the Informal Economy, 2023. Source: ILO World Employment and Social Outlook, 2024. Source: ILO, low- and high-income modelled estimates, 2024.</div>
+</div>
+<footer><div class="in"><div class="f-brand"><img src="/assets/logo.png" alt="" width="26" height="26"><span class="wm">capsrow</span></div><p class="f-tag">capsrow documents the financial infrastructure of the Global South - the payment rails, mobile-money networks, and founders building the systems that bank billions.</p><div class="social"><a href="https://www.instagram.com/capsrowpartners/" aria-label="Instagram" rel="me noopener" target="_blank"><svg viewBox="0 0 24 24" role="img" aria-hidden="true"><path d="M12 2.16c3.2 0 3.58.01 4.85.07 1.17.05 1.8.25 2.22.41.56.22.96.48 1.38.9.42.42.68.82.9 1.38.16.42.36 1.05.41 2.22.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.05 1.17-.25 1.8-.41 2.22a3.7 3.7 0 0 1-.9 1.38 3.7 3.7 0 0 1-1.38.9c-.42.16-1.05.36-2.22.41-1.27.06-1.65.07-4.85.07s-3.58-.01-4.85-.07c-1.17-.05-1.8-.25-2.22-.41a3.7 3.7 0 0 1-1.38-.9 3.7 3.7 0 0 1-.9-1.38c-.16-.42-.36-1.05-.41-2.22C2.17 15.58 2.16 15.2 2.16 12s.01-3.58.07-4.85c.05-1.17.25-1.8.41-2.22.22-.56.48-.96.9-1.38.42-.42.82-.68 1.38-.9.42-.16 1.05-.36 2.22-.41C8.42 2.17 8.8 2.16 12 2.16M12 0C8.74 0 8.33.01 7.05.07 5.78.13 4.9.33 4.14.63a5.9 5.9 0 0 0-2.13 1.38A5.9 5.9 0 0 0 .63 4.14C.33 4.9.13 5.78.07 7.05.01 8.33 0 8.74 0 12s.01 3.67.07 4.95c.06 1.27.26 2.15.56 2.91.31.79.72 1.46 1.38 2.13a5.9 5.9 0 0 0 2.13 1.38c.76.3 1.64.5 2.91.56C8.33 23.99 8.74 24 12 24s3.67-.01 4.95-.07c1.27-.06 2.15-.26 2.91-.56a5.9 5.9 0 0 0 2.13-1.38 5.9 5.9 0 0 0 1.38-2.13c.3-.76.5-1.64.56-2.91.06-1.28.07-1.69.07-4.95s-.01-3.67-.07-4.95c-.06-1.27-.26-2.15-.56-2.91a5.9 5.9 0 0 0-1.38-2.13A5.9 5.9 0 0 0 19.86.63c-.76-.3-1.64-.5-2.91-.56C15.67.01 15.26 0 12 0zm0 5.84A6.16 6.16 0 1 0 18.16 12 6.16 6.16 0 0 0 12 5.84zm0 10.16A4 4 0 1 1 16 12a4 4 0 0 1-4 4zm6.41-11.85a1.44 1.44 0 1 0 1.44 1.44 1.44 1.44 0 0 0-1.44-1.44z"/></svg></a><a href="https://x.com/capsrowpartners" aria-label="X" rel="me noopener" target="_blank"><svg viewBox="0 0 24 24" role="img" aria-hidden="true"><path d="M18.9 1.15h3.68l-8.04 9.19L24 22.85h-7.41l-5.8-7.58-6.64 7.58H.47l8.6-9.83L0 1.15h7.6l5.24 6.93 6.06-6.93zm-1.29 19.5h2.04L6.49 3.24H4.3l13.31 17.41z"/></svg></a><a href="https://www.linkedin.com/company/capsrow/" aria-label="LinkedIn" rel="me noopener" target="_blank"><svg viewBox="0 0 24 24" role="img" aria-hidden="true"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.35V9h3.41v1.56h.05c.48-.9 1.63-1.85 3.36-1.85 3.6 0 4.27 2.37 4.27 5.45v6.29zM5.34 7.43a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12zm1.78 13.02H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.72v20.56C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.72V1.72C24 .77 23.2 0 22.22 0z"/></svg></a><a href="https://www.tiktok.com/@capsrowpartners" aria-label="TikTok" rel="me noopener" target="_blank"><svg viewBox="0 0 24 24" role="img" aria-hidden="true"><path d="M12.53.02C13.84 0 15.14.01 16.44 0c.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.15 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z"/></svg></a><a href="https://capsrow.substack.com" aria-label="Substack" rel="me noopener" target="_blank"><svg viewBox="0 0 24 24" role="img" aria-hidden="true"><path d="M22.54 8.24H1.46V5.4h21.08v2.84zM1.46 10.81V24L12 18.11 22.54 24V10.81H1.46zM22.54 0H1.46v2.84h21.08V0z"/></svg></a></div><div class="f-links"><a href="/">All topics</a><a href="/corridor/africa.html">Africa</a><a href="/corridor/latam.html">Latin America</a><a href="/corridor/south-asia.html">South Asia</a></div></div></footer>
+</body></html>
