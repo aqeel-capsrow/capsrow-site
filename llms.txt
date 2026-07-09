@@ -11,6 +11,7 @@
 - [A decade of light, counted in people.](https://data.capsrow.com/company/off-grid-solar-decade.html): Energy access across Africa is being counted one household at a time, not one power plant at a time.
 - [Abdulmajeed Alsukhan](https://data.capsrow.com/founder/abdulmajeed-alsukhan.html): Credit Without the Debt Trap
 - [Africa still trades far more with the world than with itself.](https://data.capsrow.com/company/afcfta-trade-runway.html): Africa's largest trading partner is not a country - it is the rest of the world.
+- [Al Dhafra Solar](https://data.capsrow.com/company/al-dhafra-solar.html): One desert, four million panels.
 - [Andela](https://data.capsrow.com/company/andela.html): Lagos, 2014. Now a network across the continent.
 - [Bitso](https://data.capsrow.com/company/bitso.html): Nine million users. The rail under a family's remittance.
 - [bKash](https://data.capsrow.com/company/bkash.html): 83 million customers.
@@ -27,6 +28,7 @@
 - [Fawry](https://data.capsrow.com/company/fawry.html): 53 million customers. Almost no branches.
 - [For every dollar of aid, families send home two and a half.](https://data.capsrow.com/company/remittances-vs-aid.html): The largest flow of capital into the Global South does not come from a fund.
 - [GCash](https://data.capsrow.com/company/gcash.html): The account most Filipinos actually use.
+- [Gogoro](https://data.capsrow.com/company/gogoro-battery-swap.html): Taiwan built an electric refuelling grid - swap an empty battery for a full one in seconds.
 - [Ham Serunjogi](https://data.capsrow.com/founder/ham-serunjogi.html): Building Africa's Rails from the Diaspora
 - [Husk Power](https://data.capsrow.com/company/husk-minigrids.html): Where the national grid stops, Husk builds one minigrid at a time.
 - [Husk Power](https://data.capsrow.com/company/husk-power-minigrids.html): Where the national grid stops, Husk builds solar minigrids that pay for themselves.
@@ -37,9 +39,11 @@
 - [In most of the Global South, informal work is the work.](https://data.capsrow.com/company/informal-economy-share.html): The informal economy is not the exception in the Global South - it is the economy.
 - [India built its sovereign AI cloud from zero to sixteen thousand GPUs.](https://data.capsrow.com/company/yotta-shakti-gpus.html): India's AI models no longer have to train on rented foreign machines.
 - [InstaDeep](https://data.capsrow.com/company/instadeep-early-warning.html): An AI built in Tunis saw the variant before the WHO named it.
+- [Karim Beguir](https://data.capsrow.com/founder/karim-beguir.html): African AI at the Global Frontier
 - [KenGen](https://data.capsrow.com/company/kengen-olkaria-geothermal.html): Kenya drilled the Rift Valley into Africa's largest geothermal grid.
 - [Kenya draws nearly half its power from underground steam.](https://data.capsrow.com/company/kengen-geothermal.html): Kenya bet on the heat under its feet.
 - [Konfio](https://data.capsrow.com/company/konfio.html): A loan decision in minutes, not months.
+- [Lelapa AI - InkubaLM](https://data.capsrow.com/company/lelapa-inkubalm.html): African languages deserve their own AI.
 - [Lori Systems](https://data.capsrow.com/company/lori-kobo360.html): The empty truck, finally matched to the load.
 - [M-KOPA](https://data.capsrow.com/company/m-kopa.html): Around 40 shillings a day. Five million customers.
 - [M-Pesa](https://data.capsrow.com/company/m-pesa.html): Since 2007. On a feature phone.
