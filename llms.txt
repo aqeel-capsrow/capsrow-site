@@ -1,0 +1,91 @@
+# capsrow
+
+> capsrow documents the infrastructure the Global South is inventing from scratch - the AI, financial, and energy systems being built in Lagos, Nairobi, Sao Paulo, Jakarta, and Riyadh. Every fact is traced to a primary disclosure. No valuations, round sizes, or investor names - only people-scale numbers.
+
+## About
+- [About capsrow](https://data.capsrow.com/about.html): the three-vertical thesis (AI & The Enterprise, Financial Systems, Energy), sourcing standard, and corridors.
+
+## Topics
+- [5 things the Global South is building beyond fintech](https://data.capsrow.com/company/beyond-fintech.html): Beyond fintech, a different stack is going up across the Global South.
+- [A city that refuels its scooters in seconds, not hours.](https://data.capsrow.com/company/gogoro-battery-swaps.html): You do not charge a Gogoro scooter, you swap the battery for a full one in seconds.
+- [A decade of light, counted in people.](https://data.capsrow.com/company/off-grid-solar-decade.html): Energy access across Africa is being counted one household at a time, not one power plant at a time.
+- [Abdulmajeed Alsukhan](https://data.capsrow.com/founder/abdulmajeed-alsukhan.html): Credit Without the Debt Trap
+- [Africa still trades far more with the world than with itself.](https://data.capsrow.com/company/afcfta-trade-runway.html): Africa's largest trading partner is not a country - it is the rest of the world.
+- [Andela](https://data.capsrow.com/company/andela.html): Lagos, 2014. Now a network across the continent.
+- [Bitso](https://data.capsrow.com/company/bitso.html): Nine million users. The rail under a family's remittance.
+- [bKash](https://data.capsrow.com/company/bkash.html): 83 million customers.
+- [Cassava](https://data.capsrow.com/company/cassava-ai-factory.html): Africa's first AI factory is being built in Johannesburg.
+- [Chipper Cash](https://data.capsrow.com/company/chipper-cash.html): Money that crosses the border like a text.
+- [Clip](https://data.capsrow.com/company/clip.html): The terminal was in their pocket all along.
+- [Credit without a bureau](https://data.capsrow.com/company/no-bureau-lending.html): Most of the world has no credit score.
+- [Creditas](https://data.capsrow.com/company/creditas.html): Credit priced on what you already hold.
+- [DeHaat](https://data.capsrow.com/company/dehaat.html): Inputs, advice, and the market in one place.
+- [dLocal](https://data.capsrow.com/company/dlocal.html): One integration. Forty-plus countries.
+- [Easypaisa & JazzCash](https://data.capsrow.com/company/easypaisa-jazzcash.html): Tens of millions banked from a phone, not a branch.
+- [Falguni Nayar](https://data.capsrow.com/founder/falguni-nayar.html): Founding at Fifty
+- [Fawry](https://data.capsrow.com/company/fawry.html): 53 million customers. Almost no branches.
+- [For every dollar of aid, families send home two and a half.](https://data.capsrow.com/company/remittances-vs-aid.html): The largest flow of capital into the Global South does not come from a fund.
+- [GCash](https://data.capsrow.com/company/gcash.html): The account most Filipinos actually use.
+- [Ham Serunjogi](https://data.capsrow.com/founder/ham-serunjogi.html): Building Africa's Rails from the Diaspora
+- [Husk Power](https://data.capsrow.com/company/husk-minigrids.html): Where the national grid stops, Husk builds one minigrid at a time.
+- [In Bangladesh, wages come home in minutes.](https://data.capsrow.com/company/bkash-one-line.html): For millions, a paycheck used to take days to reach home.
+- [In Brazil, cards lost to a free rail.](https://data.capsrow.com/company/pix-vs-cards-one-line.html): It took a free public rail barely a year to beat the card networks.
+- [In Kenya, to pay is to M-Pesa.](https://data.capsrow.com/company/to-pay-is-to-m-pesa.html): Some products get used.
+- [In Latin America, the account went from rare to routine.](https://data.capsrow.com/company/latam-account-ownership-surge.html): In one generation, a bank account in Latin America stopped being a privilege.
+- [In most of the Global South, informal work is the work.](https://data.capsrow.com/company/informal-economy-share.html): The informal economy is not the exception in the Global South - it is the economy.
+- [India built its sovereign AI cloud from zero to sixteen thousand GPUs.](https://data.capsrow.com/company/yotta-shakti-gpus.html): India's AI models no longer have to train on rented foreign machines.
+- [InstaDeep](https://data.capsrow.com/company/instadeep-early-warning.html): An AI built in Tunis saw the variant before the WHO named it.
+- [KenGen](https://data.capsrow.com/company/kengen-olkaria-geothermal.html): Kenya drilled the Rift Valley into Africa's largest geothermal grid.
+- [Konfio](https://data.capsrow.com/company/konfio.html): A loan decision in minutes, not months.
+- [Lori Systems](https://data.capsrow.com/company/lori-kobo360.html): The empty truck, finally matched to the load.
+- [M-KOPA](https://data.capsrow.com/company/m-kopa.html): Around 40 shillings a day. Five million customers.
+- [M-Pesa](https://data.capsrow.com/company/m-pesa.html): Since 2007. On a feature phone.
+- [Marcos Galperin](https://data.capsrow.com/founder/marcos-galperin.html): The Rails Under Latin American Commerce
+- [Mercado Pago](https://data.capsrow.com/company/mercado-pago.html): Nearly 78 million monthly accounts.
+- [Mitchell Elegbe](https://data.capsrow.com/company/interswitch.html): Lagos, 2002.
+- [Mobile money doubled to two billion accounts in five years.](https://data.capsrow.com/company/rails-counted.html): Count financial inclusion in people, not dollars, and the Global South stops looking like a frontier.
+- [MoMo](https://data.capsrow.com/company/momo.html): 30 million users and counting.
+- [Moniepoint](https://data.capsrow.com/company/moniepoint.html): The shop on the corner is the branch.
+- [Mounir Nakhla](https://data.capsrow.com/founder/mounir-nakhla.html): He Banked the Tuk-Tuk Drivers Everyone Called Criminals
+- [Mudassir Sheikha](https://data.capsrow.com/company/careem.html): Dubai, 2012.
+- [Mudassir Sheikha](https://data.capsrow.com/founder/mudassir-sheikha.html): Local Solutions to Local Problems
+- [Nadiem Makarim](https://data.capsrow.com/founder/nadiem-makarim.html): From Motorbike Dispatch to a Nation's Super-App
+- [Nagad](https://data.capsrow.com/company/nagad.html): A wallet built on the postal network.
+- [Nequi](https://data.capsrow.com/company/nequi.html): 22 million users. Half of Colombia's adults.
+- [Nubank](https://data.capsrow.com/company/nubank.html): Sao Paulo, 2013. The moat was the customer, not the branch.
+- [One collapse: how India made data almost free.](https://data.capsrow.com/company/jio-s-price-collapse.html): One price collapse rewired how a billion people live online.
+- [One country clears more real-time payments than the rest of the world combined.](https://data.capsrow.com/company/upi-vs-world-real-time.html): The world's busiest payment rail runs out of South Asia, and it was built as public infrastructure.
+- [One map: the human last mile beats the branch.](https://data.capsrow.com/company/the-agent-economy.html): One map explains how Africa banked itself without branches.
+- [One number: 94 million Filipinos, one wallet.](https://data.capsrow.com/company/gcash-one-number.html): One number tells the whole story of Philippine money.
+- [One rail reached most of Brazil in three years.](https://data.capsrow.com/company/pix-in-three-years.html): One rail reached most of a country in three years flat.
+- [One rail. Every bank in India.](https://data.capsrow.com/company/upi-in-one-month.html): India didn't wait for the card networks.
+- [One refinery. Fuel for a nation.](https://data.capsrow.com/company/dangote-refinery-fact.html): For decades, Africa's biggest oil producer imported the fuel it burned.
+- [OPay](https://data.capsrow.com/company/opay.html): 40 million users. A shop on every corner.
+- [Pawan Chandana](https://data.capsrow.com/founder/pawan-chandana.html): The Engineer Who Left the Launchpad to Build His Own
+- [Paymob](https://data.capsrow.com/company/paymob.html): The checkout, wired for the whole region.
+- [Peter Njonjo](https://data.capsrow.com/company/twiga.html): Nairobi, 2014.
+- [Peter Njonjo](https://data.capsrow.com/founder/peter-njonjo.html): Making the Kiosk the Customer
+- [Pezesha](https://data.capsrow.com/company/pezesha.html): Hilda Moraa built the layer everyone else lends through.
+- [PicPay](https://data.capsrow.com/company/picpay.html): Sixty-four million accounts. It started as a way to split the bill.
+- [Pierpaolo Barbieri](https://data.capsrow.com/founder/pierpaolo-barbieri.html): Banking Argentina's Unbanked
+- [Pix](https://data.capsrow.com/company/pix.html): Launched 2020. Nine in ten adults today.
+- [Power comes first](https://data.capsrow.com/company/power-first.html): No grid, no anything else.
+- [QRIS](https://data.capsrow.com/company/qris-indonesia.html): One code every wallet in Indonesia reads.
+- [Rappi](https://data.capsrow.com/company/rappi.html): Nine countries. One app for almost everything.
+- [Reliance Jio](https://data.capsrow.com/company/reliance-jio.html): The rail that put the internet in every pocket.
+- [Sabi](https://data.capsrow.com/company/sabi-omniretail.html): The corner shop, finally on the grid.
+- [Shola Akinlade](https://data.capsrow.com/founder/akinlade.html): Building Africa's Payment Stack
+- [stc pay](https://data.capsrow.com/company/stc-pay.html): 12 million users. Now a licensed bank.
+- [Stori](https://data.capsrow.com/company/stori.html): The first card, for the first-time borrower.
+- [Strive Masiyiwa](https://data.capsrow.com/founder/strive-masiyiwa.html): The Five-Year Fight for a Dial Tone
+- [Sun King and d.light](https://data.capsrow.com/company/sun-king-d-light.html): Hundreds of millions of people, off the grid, powered.
+- [Tabby](https://data.capsrow.com/company/tabby-tamara.html): Two in three Gulf adults are registered.
+- [Tamara](https://data.capsrow.com/company/tamara.html): Six million customers. Launched 2020.
+- [Tan Hooi Ling](https://data.capsrow.com/founder/tan-hooi-ling.html): The Operator Who Called Herself a Plumber
+- [The connected majority arrived, and it lives in the Global South.](https://data.capsrow.com/company/smartphone-penetration.html): The internet became a majority-human experience on a phone bought in the Global South.
+- [The diaspora sends more than aid.](https://data.capsrow.com/company/the-diaspora-sends-more-than-aid.html): The largest development programme in the Global South has no headquarters.
+- [The median African is nineteen. The median European is forty-two.](https://data.capsrow.com/company/africa-s-median-age.html): The youngest continent on earth is also the fastest-building one.
+- [UPI](https://data.capsrow.com/company/upi-2016.html): 44 banks in 2016. 703 today.
+- [Wave](https://data.capsrow.com/company/wave.html): One percent to send. Nothing to deposit.
+- [Women's account ownership nearly doubled in a decade.](https://data.capsrow.com/company/account-gender-gap-closing.html): The most important number in financial inclusion is the one that is shrinking.
+- [Yape](https://data.capsrow.com/company/yape.html): 20 million users. Launched 2017.
