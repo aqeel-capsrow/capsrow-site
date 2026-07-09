@@ -2,8 +2,8 @@
 
 > capsrow documents the infrastructure the Global South is inventing from scratch - the AI, financial, and energy systems being built in Lagos, Nairobi, Sao Paulo, Jakarta, and Riyadh. Every fact is traced to a primary disclosure. No valuations, round sizes, or investor names - only people-scale numbers.
 
-## Datasets
-- [Global South Infrastructure Index](https://data.capsrow.com/global-south-infrastructure-index.html): capsrow's proprietary index - verified people-scale metrics (customers, households, megawatts, GPUs, languages) across AI, financial, and energy infrastructure in the Global South, each traced to a primary source. CSV: https://data.capsrow.com/global-south-infrastructure-index.csv. Reuse under CC BY 4.0 with attribution to capsrow.
+## What capsrow tracks
+- [What capsrow tracks](https://data.capsrow.com/global-south-infrastructure.html): a running record of verified, people-scale numbers on Global South AI, finance, and energy infrastructure, each traced to a primary source. A curated coverage list, not an analytic dataset. CSV: https://data.capsrow.com/global-south-infrastructure.csv. Reuse under CC BY 4.0 with attribution to capsrow.
 
 ## About
 - [About capsrow](https://data.capsrow.com/about.html): the three-vertical thesis (AI & The Enterprise, Financial Systems, Energy), sourcing standard, and corridors.
