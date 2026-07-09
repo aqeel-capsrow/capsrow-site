@@ -15,6 +15,7 @@
 - [Bitso](https://data.capsrow.com/company/bitso.html): Nine million users. The rail under a family's remittance.
 - [bKash](https://data.capsrow.com/company/bkash.html): 83 million customers.
 - [Cassava](https://data.capsrow.com/company/cassava-ai-factory.html): Africa's first AI factory is being built in Johannesburg.
+- [Cassava](https://data.capsrow.com/company/cassava-ai-factory-company.html): Africa is building its own AI compute, so its founders can train models on the continent.
 - [Chipper Cash](https://data.capsrow.com/company/chipper-cash.html): Money that crosses the border like a text.
 - [Clip](https://data.capsrow.com/company/clip.html): The terminal was in their pocket all along.
 - [Credit without a bureau](https://data.capsrow.com/company/no-bureau-lending.html): Most of the world has no credit score.
@@ -28,6 +29,7 @@
 - [GCash](https://data.capsrow.com/company/gcash.html): The account most Filipinos actually use.
 - [Ham Serunjogi](https://data.capsrow.com/founder/ham-serunjogi.html): Building Africa's Rails from the Diaspora
 - [Husk Power](https://data.capsrow.com/company/husk-minigrids.html): Where the national grid stops, Husk builds one minigrid at a time.
+- [Husk Power](https://data.capsrow.com/company/husk-power-minigrids.html): Where the national grid stops, Husk builds solar minigrids that pay for themselves.
 - [In Bangladesh, wages come home in minutes.](https://data.capsrow.com/company/bkash-one-line.html): For millions, a paycheck used to take days to reach home.
 - [In Brazil, cards lost to a free rail.](https://data.capsrow.com/company/pix-vs-cards-one-line.html): It took a free public rail barely a year to beat the card networks.
 - [In Kenya, to pay is to M-Pesa.](https://data.capsrow.com/company/to-pay-is-to-m-pesa.html): Some products get used.
@@ -36,6 +38,7 @@
 - [India built its sovereign AI cloud from zero to sixteen thousand GPUs.](https://data.capsrow.com/company/yotta-shakti-gpus.html): India's AI models no longer have to train on rented foreign machines.
 - [InstaDeep](https://data.capsrow.com/company/instadeep-early-warning.html): An AI built in Tunis saw the variant before the WHO named it.
 - [KenGen](https://data.capsrow.com/company/kengen-olkaria-geothermal.html): Kenya drilled the Rift Valley into Africa's largest geothermal grid.
+- [Kenya draws nearly half its power from underground steam.](https://data.capsrow.com/company/kengen-geothermal.html): Kenya bet on the heat under its feet.
 - [Konfio](https://data.capsrow.com/company/konfio.html): A loan decision in minutes, not months.
 - [Lori Systems](https://data.capsrow.com/company/lori-kobo360.html): The empty truck, finally matched to the load.
 - [M-KOPA](https://data.capsrow.com/company/m-kopa.html): Around 40 shillings a day. Five million customers.
@@ -89,3 +92,4 @@
 - [Wave](https://data.capsrow.com/company/wave.html): One percent to send. Nothing to deposit.
 - [Women's account ownership nearly doubled in a decade.](https://data.capsrow.com/company/account-gender-gap-closing.html): The most important number in financial inclusion is the one that is shrinking.
 - [Yape](https://data.capsrow.com/company/yape.html): 20 million users. Launched 2017.
+- [Yotta Shakti Cloud](https://data.capsrow.com/company/yotta-sovereign-compute.html): Sovereign AI starts with owning the machines.
