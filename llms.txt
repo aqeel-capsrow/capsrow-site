@@ -9,9 +9,13 @@
 - [5 things the Global South is building beyond fintech](https://data.capsrow.com/company/beyond-fintech.html): Beyond fintech, a different stack is going up across the Global South.
 - [A decade of light, counted in people.](https://data.capsrow.com/company/off-grid-solar-decade.html): Energy access across Africa is being counted one household at a time, not one power plant at a time.
 - [Abdulmajeed Alsukhan](https://data.capsrow.com/founder/abdulmajeed-alsukhan.html): Credit Without the Debt Trap
+- [Abu Dhabi's open model scaled to 180 billion parameters.](https://data.capsrow.com/company/falcon-open-model.html): Abu Dhabi built a frontier model, then gave it away.
+- [Adani Green](https://data.capsrow.com/company/adani-khavda.html): On salt-desert where nothing grows, India is building the world's largest renewable park.
 - [Africa still trades far more with the world than with itself.](https://data.capsrow.com/company/afcfta-trade-runway.html): Africa's largest trading partner is not a country - it is the rest of the world.
 - [Al Dhafra Solar](https://data.capsrow.com/company/al-dhafra-solar.html): One desert, four million panels.
 - [Andela](https://data.capsrow.com/company/andela.html): Lagos, 2014. Now a network across the continent.
+- [Awarri](https://data.capsrow.com/company/awarri-nigeria-llm.html): Nigeria is crowdsourcing the data for its own large language model.
+- [Benban Solar Park](https://data.capsrow.com/company/benban-solar.html): Egypt turned a stretch of desert into Africa's largest solar park.
 - [Bitso](https://data.capsrow.com/company/bitso.html): Nine million users. The rail under a family's remittance.
 - [bKash](https://data.capsrow.com/company/bkash.html): 83 million customers.
 - [Cassava](https://data.capsrow.com/company/cassava-ai-factory.html): Africa's first AI factory is being built in Johannesburg.
@@ -77,6 +81,7 @@
 - [Rappi](https://data.capsrow.com/company/rappi.html): Nine countries. One app for almost everything.
 - [Reliance Jio](https://data.capsrow.com/company/reliance-jio.html): The rail that put the internet in every pocket.
 - [Sabi](https://data.capsrow.com/company/sabi-omniretail.html): The corner shop, finally on the grid.
+- [Sarvam AI](https://data.capsrow.com/company/sarvam-sovereign-llm.html): India is building AI that speaks like India.
 - [Shola Akinlade](https://data.capsrow.com/founder/akinlade.html): Building Africa's Payment Stack
 - [stc pay](https://data.capsrow.com/company/stc-pay.html): 12 million users. Now a licensed bank.
 - [Stori](https://data.capsrow.com/company/stori.html): The first card, for the first-time borrower.
@@ -89,6 +94,7 @@
 - [The diaspora sends more than aid.](https://data.capsrow.com/company/the-diaspora-sends-more-than-aid.html): The largest development programme in the Global South has no headquarters.
 - [The median African is nineteen. The median European is forty-two.](https://data.capsrow.com/company/africa-s-median-age.html): The youngest continent on earth is also the fastest-building one.
 - [UPI](https://data.capsrow.com/company/upi-2016.html): 44 banks in 2016. 703 today.
+- [VinFast](https://data.capsrow.com/company/vinfast-escooters.html): Vietnam is electrifying its streets from the scooter up.
 - [Wave](https://data.capsrow.com/company/wave.html): One percent to send. Nothing to deposit.
 - [Women's account ownership nearly doubled in a decade.](https://data.capsrow.com/company/account-gender-gap-closing.html): The most important number in financial inclusion is the one that is shrinking.
 - [Yape](https://data.capsrow.com/company/yape.html): 20 million users. Launched 2017.
