@@ -9,7 +9,6 @@
 - [5 things the Global South is building beyond fintech](https://data.capsrow.com/company/beyond-fintech.html): Beyond fintech, a different stack is going up across the Global South.
 - [A decade of light, counted in people.](https://data.capsrow.com/company/off-grid-solar-decade.html): Energy access across Africa is being counted one household at a time, not one power plant at a time.
 - [Abdulmajeed Alsukhan](https://data.capsrow.com/founder/abdulmajeed-alsukhan.html): Credit Without the Debt Trap
-- [Abu Dhabi's open model scaled to 180 billion parameters.](https://data.capsrow.com/company/falcon-open-model.html): Abu Dhabi built a frontier model, then gave it away.
 - [Adani Green](https://data.capsrow.com/company/adani-khavda.html): On salt-desert where nothing grows, India is building the world's largest renewable park.
 - [Africa still trades far more with the world than with itself.](https://data.capsrow.com/company/afcfta-trade-runway.html): Africa's largest trading partner is not a country - it is the rest of the world.
 - [Al Dhafra Solar](https://data.capsrow.com/company/al-dhafra-solar.html): One desert, four million panels.
@@ -38,7 +37,6 @@
 - [In Kenya, to pay is to M-Pesa.](https://data.capsrow.com/company/to-pay-is-to-m-pesa.html): Some products get used.
 - [In Latin America, the account went from rare to routine.](https://data.capsrow.com/company/latam-account-ownership-surge.html): In one generation, a bank account in Latin America stopped being a privilege.
 - [In most of the Global South, informal work is the work.](https://data.capsrow.com/company/informal-economy-share.html): The informal economy is not the exception in the Global South - it is the economy.
-- [India built its sovereign AI cloud from zero to sixteen thousand GPUs.](https://data.capsrow.com/company/yotta-shakti-gpus.html): India's AI models no longer have to train on rented foreign machines.
 - [InstaDeep](https://data.capsrow.com/company/instadeep-early-warning.html): An AI built in Tunis saw the variant before the WHO named it.
 - [Karim Beguir](https://data.capsrow.com/founder/karim-beguir.html): African AI at the Global Frontier
 - [KenGen](https://data.capsrow.com/company/kengen-olkaria-geothermal.html): Kenya drilled the Rift Valley into Africa's largest geothermal grid.
@@ -93,8 +91,10 @@
 - [The connected majority arrived, and it lives in the Global South.](https://data.capsrow.com/company/smartphone-penetration.html): The internet became a majority-human experience on a phone bought in the Global South.
 - [The diaspora sends more than aid.](https://data.capsrow.com/company/the-diaspora-sends-more-than-aid.html): The largest development programme in the Global South has no headquarters.
 - [The median African is nineteen. The median European is forty-two.](https://data.capsrow.com/company/africa-s-median-age.html): The youngest continent on earth is also the fastest-building one.
+- [TII Falcon](https://data.capsrow.com/company/falcon-open-model.html): Abu Dhabi built a frontier model, then gave it away.
 - [UPI](https://data.capsrow.com/company/upi-2016.html): 44 banks in 2016. 703 today.
 - [VinFast](https://data.capsrow.com/company/vinfast-escooters.html): Vietnam is electrifying its streets from the scooter up.
 - [Wave](https://data.capsrow.com/company/wave.html): One percent to send. Nothing to deposit.
 - [Women's account ownership nearly doubled in a decade.](https://data.capsrow.com/company/account-gender-gap-closing.html): The most important number in financial inclusion is the one that is shrinking.
 - [Yape](https://data.capsrow.com/company/yape.html): 20 million users. Launched 2017.
+- [Yotta](https://data.capsrow.com/company/yotta-shakti-gpus.html): India's AI models no longer have to train on rented foreign machines.
