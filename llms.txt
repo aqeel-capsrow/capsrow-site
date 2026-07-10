@@ -35,10 +35,12 @@
 - [Bitso](https://data.capsrow.com/company/bitso.html): Nine million users. The rail under a family's remittance.
 - [bKash](https://data.capsrow.com/company/bkash.html): 83 million customers.
 - [Cassava](https://data.capsrow.com/company/cassava-ai-factory.html): Africa's first AI factory is being built in Johannesburg.
+- [CBN](https://data.capsrow.com/company/nigeria-data-localisation.html): From 2027, every payment made in Nigeria must be stored and processed inside Nigeria.
 - [Chipper Cash](https://data.capsrow.com/company/chipper-cash.html): Money that crosses the border like a text.
 - [Clip](https://data.capsrow.com/company/clip.html): The terminal was in their pocket all along.
 - [Credit without a bureau](https://data.capsrow.com/company/no-bureau-lending.html): Most of the world has no credit score.
 - [Creditas](https://data.capsrow.com/company/creditas.html): Credit priced on what you already hold.
+- [Dangote Refinery](https://data.capsrow.com/company/dangote-refinery-decade.html): One nation's engineers spent a decade building the world's largest single-train refinery.
 - [DeHaat](https://data.capsrow.com/company/dehaat.html): Inputs, advice, and the market in one place.
 - [dLocal](https://data.capsrow.com/company/dlocal.html): One integration. Forty-plus countries.
 - [Easypaisa & JazzCash](https://data.capsrow.com/company/easypaisa-jazzcash.html): Tens of millions banked from a phone, not a branch.
@@ -46,8 +48,10 @@
 - [Fawry](https://data.capsrow.com/company/fawry.html): 53 million customers. Almost no branches.
 - [For every dollar of aid, families send home two and a half.](https://data.capsrow.com/company/remittances-vs-aid.html): The largest flow of capital into the Global South does not come from a fund.
 - [GCash](https://data.capsrow.com/company/gcash.html): The account most Filipinos actually use.
+- [Global South](https://data.capsrow.com/company/sovereign-ai-compute-map.html): Where is sovereign AI compute being built across the Global South?
 - [Gogoro](https://data.capsrow.com/company/gogoro-battery-swap.html): Taiwan built an electric refuelling grid - swap an empty battery for a full one in seconds.
 - [Ham Serunjogi](https://data.capsrow.com/founder/ham-serunjogi.html): Building Africa's Rails from the Diaspora
+- [HUMAIN](https://data.capsrow.com/company/saudi-sovereign-ai.html): Saudi Arabia is building both its own Arabic AI model and the compute to run it.
 - [Husk Power](https://data.capsrow.com/company/husk-minigrids.html): Where the national grid stops, Husk builds one minigrid at a time.
 - [In Bangladesh, wages come home in minutes.](https://data.capsrow.com/company/bkash-one-line.html): For millions, a paycheck used to take days to reach home.
 - [In Brazil, cards lost to a free rail.](https://data.capsrow.com/company/pix-vs-cards-one-line.html): It took a free public rail barely a year to beat the card networks.
