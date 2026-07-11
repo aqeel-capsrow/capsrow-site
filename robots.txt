@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://data.capsrow.com/sitemap.xml
+Sitemap: https://globalsouth.capsrow.com/sitemap.xml
