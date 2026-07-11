@@ -3,119 +3,119 @@
 > capsrow documents the infrastructure the Global South is inventing from scratch - the AI, financial, and energy systems being built in Lagos, Nairobi, Sao Paulo, Jakarta, and Riyadh. Every fact is traced to a primary disclosure. No valuations, round sizes, or investor names - only people-scale numbers.
 
 ## About
-- [About capsrow](https://globalsouth.capsrow.com/about.html): the three-vertical thesis (AI & The Enterprise, Financial Systems, Energy), sourcing standard, and corridors.
+- [About capsrow](https://globalsouth.capsrow.com/about): the three-vertical thesis (AI & The Enterprise, Financial Systems, Energy), sourcing standard, and corridors.
 
 ## Questions answered
-- [How many banks use India's UPI?](https://globalsouth.capsrow.com/questions/how-many-banks-use-india-upi.html): 703 banks run on UPI, India's public payment rail, as of 2026. Close to half of the world's real-time payments now move on this single system.
-- [How many battery swaps does Gogoro do per day?](https://globalsouth.capsrow.com/questions/how-many-battery-swaps-does-gogoro-do-per-day.html): Gogoro runs about 370,000 battery swaps a day across more than 2,700 stations in Taiwan, serving over 650,000 scooter riders who trade an empty battery for a full one in seconds instead of charging.
-- [How many Brazilians use Pix?](https://globalsouth.capsrow.com/questions/how-many-brazilians-use-pix.html): About 150 million Brazilians use Pix, the central bank's instant-payment rail - more than nine in ten adults - only a few years after it launched in 2020.
-- [How many customers does M-Pesa have?](https://globalsouth.capsrow.com/questions/how-many-customers-does-m-pesa-have.html): M-Pesa has about 37.9 million customers moving money in Kenya as of 2025, served by 319,300 agents - a cash network larger than every Kenyan bank branch combined. Around 85 percent of Kenyan adults now have formal financial access, up from 19 percent before M-Pesa.
-- [How many electric scooters did VinFast sell in Vietnam?](https://globalsouth.capsrow.com/questions/how-many-electric-scooters-did-vinfast-sell-in-vietnam.html): VinFast delivered 406,453 electric scooters in Vietnam in 2025, making it the country's best-selling scooter that year - petrol or electric.
-- [How many languages does India's sovereign LLM support?](https://globalsouth.capsrow.com/questions/how-many-languages-does-india-sovereign-llm-support.html): Sarvam AI's model, the sovereign large language model India's government commissioned in April 2025, is built for 22 Indian languages and trained end-to-end on Indian infrastructure.
-- [How many people use Fawry in Egypt?](https://globalsouth.capsrow.com/questions/how-many-people-use-fawry-in-egypt.html): About 53.8 million customers pay, top up, and settle bills through Fawry in Egypt, using 395,700 points of acceptance - shops, pharmacies, and kiosks - rather than bank branches.
-- [How many solar minigrids does Husk Power operate?](https://globalsouth.capsrow.com/questions/how-many-solar-minigrids-does-husk-power-operate.html): Husk Power operates more than 400 solar minigrids across rural Nigeria and India as of January 2025, having doubled its fleet in the previous twelve months. Together they serve about 1.5 million people and 30,000 small businesses.
-- [How much of Kenya's electricity comes from geothermal?](https://globalsouth.capsrow.com/questions/how-much-of-kenya-electricity-comes-from-geothermal.html): Geothermal supplied about 46 percent of Kenya's electricity in 2024, drawn from the Olkaria field in the Rift Valley - the largest geothermal complex in Africa, run by KenGen.
-- [What did InstaDeep's COVID early-warning system do?](https://globalsouth.capsrow.com/questions/what-did-instadeep-covid-early-warning-system-do.html): InstaDeep, an AI company founded in Tunis, built an Early Warning System with BioNTech that flagged more than 90 percent of the COVID variants the WHO later designated - on average about two months before they were officially named.
-- [What is the largest AI cloud in India?](https://globalsouth.capsrow.com/questions/what-is-the-largest-ai-cloud-in-india.html): Yotta's Shakti Cloud is India's largest AI cloud, running more than 16,000 Nvidia H100 GPUs. It began with the country's first H100 consignment - 4,000 GPUs - in March 2024 and scaled from there.
-- [What is the world's largest single-site solar plant?](https://globalsouth.capsrow.com/questions/what-is-the-world-largest-single-site-solar-plant.html): Al Dhafra Solar in Abu Dhabi is the world's largest single-site solar plant, generating about 2 gigawatts from more than 4 million solar panels across one desert site.
-- [Which African startups are building their own AI models?](https://globalsouth.capsrow.com/questions/which-african-startups-are-building-their-own-ai-models.html): Several are. Lelapa AI's InkubaLM is a small language model covering five African languages; Awarri is building Nigeria's first national LLM by crowdsourcing training data; and InstaDeep, founded in Tunis, built decision-making AI that flagged over 90 percent of WHO COVID variants before they were named.
-- [Which Global South countries built their own instant-payment rails?](https://globalsouth.capsrow.com/questions/which-global-south-countries-built-their-own-instant-payment-rails.html): Several have. Brazil's central bank built Pix, now used by about 150 million people; India's public UPI rail runs across 703 banks and carries close to half the world's real-time payments; and Kenya's M-Pesa turned mobile money into a national rail used by 37.9 million people.
-- [Which Global South startups build their own AI compute?](https://globalsouth.capsrow.com/questions/which-global-south-startups-build-their-own-ai-compute.html): Several Global South companies now run their own AI compute rather than renting it abroad. Cassava Technologies is installing Africa's first AI factory - 3,000 Nvidia GPUs in South Africa, scaling to 12,000 across five countries - while in India, Yotta's Shakti Cloud runs more than 16,000 Nvidia H100 GPUs, the country's largest sovereign AI cloud.
+- [How many banks use India's UPI?](https://globalsouth.capsrow.com/questions/how-many-banks-use-india-upi): 703 banks run on UPI, India's public payment rail, as of 2026. Close to half of the world's real-time payments now move on this single system.
+- [How many battery swaps does Gogoro do per day?](https://globalsouth.capsrow.com/questions/how-many-battery-swaps-does-gogoro-do-per-day): Gogoro runs about 370,000 battery swaps a day across more than 2,700 stations in Taiwan, serving over 650,000 scooter riders who trade an empty battery for a full one in seconds instead of charging.
+- [How many Brazilians use Pix?](https://globalsouth.capsrow.com/questions/how-many-brazilians-use-pix): About 150 million Brazilians use Pix, the central bank's instant-payment rail - more than nine in ten adults - only a few years after it launched in 2020.
+- [How many customers does M-Pesa have?](https://globalsouth.capsrow.com/questions/how-many-customers-does-m-pesa-have): M-Pesa has about 37.9 million customers moving money in Kenya as of 2025, served by 319,300 agents - a cash network larger than every Kenyan bank branch combined. Around 85 percent of Kenyan adults now have formal financial access, up from 19 percent before M-Pesa.
+- [How many electric scooters did VinFast sell in Vietnam?](https://globalsouth.capsrow.com/questions/how-many-electric-scooters-did-vinfast-sell-in-vietnam): VinFast delivered 406,453 electric scooters in Vietnam in 2025, making it the country's best-selling scooter that year - petrol or electric.
+- [How many languages does India's sovereign LLM support?](https://globalsouth.capsrow.com/questions/how-many-languages-does-india-sovereign-llm-support): Sarvam AI's model, the sovereign large language model India's government commissioned in April 2025, is built for 22 Indian languages and trained end-to-end on Indian infrastructure.
+- [How many people use Fawry in Egypt?](https://globalsouth.capsrow.com/questions/how-many-people-use-fawry-in-egypt): About 53.8 million customers pay, top up, and settle bills through Fawry in Egypt, using 395,700 points of acceptance - shops, pharmacies, and kiosks - rather than bank branches.
+- [How many solar minigrids does Husk Power operate?](https://globalsouth.capsrow.com/questions/how-many-solar-minigrids-does-husk-power-operate): Husk Power operates more than 400 solar minigrids across rural Nigeria and India as of January 2025, having doubled its fleet in the previous twelve months. Together they serve about 1.5 million people and 30,000 small businesses.
+- [How much of Kenya's electricity comes from geothermal?](https://globalsouth.capsrow.com/questions/how-much-of-kenya-electricity-comes-from-geothermal): Geothermal supplied about 46 percent of Kenya's electricity in 2024, drawn from the Olkaria field in the Rift Valley - the largest geothermal complex in Africa, run by KenGen.
+- [What did InstaDeep's COVID early-warning system do?](https://globalsouth.capsrow.com/questions/what-did-instadeep-covid-early-warning-system-do): InstaDeep, an AI company founded in Tunis, built an Early Warning System with BioNTech that flagged more than 90 percent of the COVID variants the WHO later designated - on average about two months before they were officially named.
+- [What is the largest AI cloud in India?](https://globalsouth.capsrow.com/questions/what-is-the-largest-ai-cloud-in-india): Yotta's Shakti Cloud is India's largest AI cloud, running more than 16,000 Nvidia H100 GPUs. It began with the country's first H100 consignment - 4,000 GPUs - in March 2024 and scaled from there.
+- [What is the world's largest single-site solar plant?](https://globalsouth.capsrow.com/questions/what-is-the-world-largest-single-site-solar-plant): Al Dhafra Solar in Abu Dhabi is the world's largest single-site solar plant, generating about 2 gigawatts from more than 4 million solar panels across one desert site.
+- [Which African startups are building their own AI models?](https://globalsouth.capsrow.com/questions/which-african-startups-are-building-their-own-ai-models): Several are. Lelapa AI's InkubaLM is a small language model covering five African languages; Awarri is building Nigeria's first national LLM by crowdsourcing training data; and InstaDeep, founded in Tunis, built decision-making AI that flagged over 90 percent of WHO COVID variants before they were named.
+- [Which Global South countries built their own instant-payment rails?](https://globalsouth.capsrow.com/questions/which-global-south-countries-built-their-own-instant-payment-rails): Several have. Brazil's central bank built Pix, now used by about 150 million people; India's public UPI rail runs across 703 banks and carries close to half the world's real-time payments; and Kenya's M-Pesa turned mobile money into a national rail used by 37.9 million people.
+- [Which Global South startups build their own AI compute?](https://globalsouth.capsrow.com/questions/which-global-south-startups-build-their-own-ai-compute): Several Global South companies now run their own AI compute rather than renting it abroad. Cassava Technologies is installing Africa's first AI factory - 3,000 Nvidia GPUs in South Africa, scaling to 12,000 across five countries - while in India, Yotta's Shakti Cloud runs more than 16,000 Nvidia H100 GPUs, the country's largest sovereign AI cloud.
 
 ## Topics
-- [5 things the Global South is building beyond fintech](https://globalsouth.capsrow.com/company/beyond-fintech.html): Beyond fintech, a different stack is going up across the Global South.
-- [A decade of light, counted in people.](https://globalsouth.capsrow.com/company/off-grid-solar-decade.html): Energy access across Africa is being counted one household at a time, not one power plant at a time.
-- [Abdulmajeed Alsukhan](https://globalsouth.capsrow.com/founder/abdulmajeed-alsukhan.html): Credit Without the Debt Trap
-- [Adani Green](https://globalsouth.capsrow.com/company/adani-khavda.html): On salt-desert where nothing grows, India is building the world's largest renewable park.
-- [Africa still trades far more with the world than with itself.](https://globalsouth.capsrow.com/company/afcfta-trade-runway.html): Africa's largest trading partner is not a country - it is the rest of the world.
-- [Al Dhafra Solar](https://globalsouth.capsrow.com/company/al-dhafra-solar.html): One desert, four million panels.
-- [Andela](https://globalsouth.capsrow.com/company/andela.html): Lagos, 2014. Now a network across the continent.
-- [Awarri](https://globalsouth.capsrow.com/company/awarri-nigeria-llm.html): Nigeria is crowdsourcing the data for its own large language model.
-- [Benban Solar Park](https://globalsouth.capsrow.com/company/benban-solar.html): Egypt turned a stretch of desert into Africa's largest solar park.
-- [Bitso](https://globalsouth.capsrow.com/company/bitso.html): Nine million users. The rail under a family's remittance.
-- [bKash](https://globalsouth.capsrow.com/company/bkash.html): 83 million customers.
-- [Cassava](https://globalsouth.capsrow.com/company/cassava-ai-factory.html): Africa's first AI factory is being built in Johannesburg.
-- [CBN](https://globalsouth.capsrow.com/company/nigeria-data-localisation.html): From 2027, the payment data stays onshore.
-- [Chipper Cash](https://globalsouth.capsrow.com/company/chipper-cash.html): Money that crosses the border like a text.
-- [Clip](https://globalsouth.capsrow.com/company/clip.html): The terminal was in their pocket all along.
-- [Credit without a bureau](https://globalsouth.capsrow.com/company/no-bureau-lending.html): Most of the world has no credit score.
-- [Creditas](https://globalsouth.capsrow.com/company/creditas.html): Credit priced on what you already hold.
-- [Dangote Refinery](https://globalsouth.capsrow.com/company/dangote-refinery-decade.html): A decade to the world's largest refinery.
-- [DeHaat](https://globalsouth.capsrow.com/company/dehaat.html): Inputs, advice, and the market in one place.
-- [dLocal](https://globalsouth.capsrow.com/company/dlocal.html): One integration. Forty-plus countries.
-- [Easypaisa & JazzCash](https://globalsouth.capsrow.com/company/easypaisa-jazzcash.html): Tens of millions banked from a phone, not a branch.
-- [Falguni Nayar](https://globalsouth.capsrow.com/founder/falguni-nayar.html): Founding at Fifty
-- [Fawry](https://globalsouth.capsrow.com/company/fawry.html): 53 million customers. Almost no branches.
-- [For every dollar of aid, families send home two and a half.](https://globalsouth.capsrow.com/company/remittances-vs-aid.html): The largest flow of capital into the Global South does not come from a fund.
-- [GCash](https://globalsouth.capsrow.com/company/gcash.html): The account most Filipinos actually use.
-- [Global South](https://globalsouth.capsrow.com/company/sovereign-ai-compute-map.html): Where is sovereign AI compute being built across the Global South?
-- [Gogoro](https://globalsouth.capsrow.com/company/gogoro-battery-swap.html): Taiwan built an electric refuelling grid - swap an empty battery for a full one in seconds.
-- [Ham Serunjogi](https://globalsouth.capsrow.com/founder/ham-serunjogi.html): Building Africa's Rails from the Diaspora
-- [HUMAIN](https://globalsouth.capsrow.com/company/saudi-sovereign-ai.html): The model and the machines, both built at home.
-- [Husk Power](https://globalsouth.capsrow.com/company/husk-minigrids.html): Where the national grid stops, Husk builds one minigrid at a time.
-- [In Bangladesh, wages come home in minutes.](https://globalsouth.capsrow.com/company/bkash-one-line.html): For millions, a paycheck used to take days to reach home.
-- [In Brazil, cards lost to a free rail.](https://globalsouth.capsrow.com/company/pix-vs-cards-one-line.html): It took a free public rail barely a year to beat the card networks.
-- [In Kenya, to pay is to M-Pesa.](https://globalsouth.capsrow.com/company/to-pay-is-to-m-pesa.html): Some products get used.
-- [In Latin America, the account went from rare to routine.](https://globalsouth.capsrow.com/company/latam-account-ownership-surge.html): In one generation, a bank account in Latin America stopped being a privilege.
-- [In most of the Global South, informal work is the work.](https://globalsouth.capsrow.com/company/informal-economy-share.html): The informal economy is not the exception in the Global South - it is the economy.
-- [InstaDeep](https://globalsouth.capsrow.com/company/instadeep-early-warning.html): An AI built in Tunis saw the variant before the WHO named it.
-- [Karim Beguir](https://globalsouth.capsrow.com/founder/karim-beguir.html): African AI at the Global Frontier
-- [KenGen](https://globalsouth.capsrow.com/company/kengen-olkaria-geothermal.html): Kenya drilled the Rift Valley into Africa's largest geothermal grid.
-- [Konfio](https://globalsouth.capsrow.com/company/konfio.html): A loan decision in minutes, not months.
-- [Lelapa AI - InkubaLM](https://globalsouth.capsrow.com/company/lelapa-inkubalm.html): African languages deserve their own AI.
-- [Lori Systems](https://globalsouth.capsrow.com/company/lori-kobo360.html): The empty truck, finally matched to the load.
-- [M-KOPA](https://globalsouth.capsrow.com/company/m-kopa.html): Around 40 shillings a day. Five million customers.
-- [M-Pesa](https://globalsouth.capsrow.com/company/m-pesa.html): Since 2007. On a feature phone.
-- [Marcos Galperin](https://globalsouth.capsrow.com/founder/marcos-galperin.html): The Rails Under Latin American Commerce
-- [Mercado Pago](https://globalsouth.capsrow.com/company/mercado-pago.html): Nearly 78 million monthly accounts.
-- [Mitchell Elegbe](https://globalsouth.capsrow.com/company/interswitch.html): Lagos, 2002.
-- [Mobile money doubled to two billion accounts in five years.](https://globalsouth.capsrow.com/company/rails-counted.html): Count financial inclusion in people, not dollars, and the Global South stops looking like a frontier.
-- [MoMo](https://globalsouth.capsrow.com/company/momo.html): 30 million users and counting.
-- [Moniepoint](https://globalsouth.capsrow.com/company/moniepoint.html): The shop on the corner is the branch.
-- [Mounir Nakhla](https://globalsouth.capsrow.com/founder/mounir-nakhla.html): He Banked the Tuk-Tuk Drivers Everyone Called Criminals
-- [Mudassir Sheikha](https://globalsouth.capsrow.com/company/careem.html): Dubai, 2012.
-- [Mudassir Sheikha](https://globalsouth.capsrow.com/founder/mudassir-sheikha.html): Local Solutions to Local Problems
-- [Nadiem Makarim](https://globalsouth.capsrow.com/founder/nadiem-makarim.html): From Motorbike Dispatch to a Nation's Super-App
-- [Nagad](https://globalsouth.capsrow.com/company/nagad.html): A wallet built on the postal network.
-- [Nequi](https://globalsouth.capsrow.com/company/nequi.html): 22 million users. Half of Colombia's adults.
-- [Nubank](https://globalsouth.capsrow.com/company/nubank.html): Sao Paulo, 2013. The moat was the customer, not the branch.
-- [One collapse: how India made data almost free.](https://globalsouth.capsrow.com/company/jio-s-price-collapse.html): One price collapse rewired how a billion people live online.
-- [One country clears more real-time payments than the rest of the world combined.](https://globalsouth.capsrow.com/company/upi-vs-world-real-time.html): The world's busiest payment rail runs out of South Asia, and it was built as public infrastructure.
-- [One map: the human last mile beats the branch.](https://globalsouth.capsrow.com/company/the-agent-economy.html): One map explains how Africa banked itself without branches.
-- [One number: 94 million Filipinos, one wallet.](https://globalsouth.capsrow.com/company/gcash-one-number.html): One number tells the whole story of Philippine money.
-- [One rail reached most of Brazil in three years.](https://globalsouth.capsrow.com/company/pix-in-three-years.html): One rail reached most of a country in three years flat.
-- [One rail. Every bank in India.](https://globalsouth.capsrow.com/company/upi-in-one-month.html): India didn't wait for the card networks.
-- [One refinery. Fuel for a nation.](https://globalsouth.capsrow.com/company/dangote-refinery-fact.html): For decades, Africa's biggest oil producer imported the fuel it burned.
-- [OPay](https://globalsouth.capsrow.com/company/opay.html): 40 million users. A shop on every corner.
-- [Pawan Chandana](https://globalsouth.capsrow.com/founder/pawan-chandana.html): The Engineer Who Left the Launchpad to Build His Own
-- [Paymob](https://globalsouth.capsrow.com/company/paymob.html): The checkout, wired for the whole region.
-- [Peter Njonjo](https://globalsouth.capsrow.com/company/twiga.html): Nairobi, 2014.
-- [Peter Njonjo](https://globalsouth.capsrow.com/founder/peter-njonjo.html): Making the Kiosk the Customer
-- [Pezesha](https://globalsouth.capsrow.com/company/pezesha.html): Hilda Moraa built the layer everyone else lends through.
-- [PicPay](https://globalsouth.capsrow.com/company/picpay.html): Sixty-four million accounts. It started as a way to split the bill.
-- [Pierpaolo Barbieri](https://globalsouth.capsrow.com/founder/pierpaolo-barbieri.html): Banking Argentina's Unbanked
-- [Pix](https://globalsouth.capsrow.com/company/pix.html): Launched 2020. Nine in ten adults today.
-- [Power comes first](https://globalsouth.capsrow.com/company/power-first.html): No grid, no anything else.
-- [QRIS](https://globalsouth.capsrow.com/company/qris-indonesia.html): One code every wallet in Indonesia reads.
-- [Rappi](https://globalsouth.capsrow.com/company/rappi.html): Nine countries. One app for almost everything.
-- [Reliance Jio](https://globalsouth.capsrow.com/company/reliance-jio.html): The rail that put the internet in every pocket.
-- [Sabi](https://globalsouth.capsrow.com/company/sabi-omniretail.html): The corner shop, finally on the grid.
-- [Sarvam AI](https://globalsouth.capsrow.com/company/sarvam-sovereign-llm.html): India is building AI that speaks like India.
-- [Shola Akinlade](https://globalsouth.capsrow.com/founder/akinlade.html): Building Africa's Payment Stack
-- [stc pay](https://globalsouth.capsrow.com/company/stc-pay.html): 12 million users. Now a licensed bank.
-- [Stori](https://globalsouth.capsrow.com/company/stori.html): The first card, for the first-time borrower.
-- [Strive Masiyiwa](https://globalsouth.capsrow.com/founder/strive-masiyiwa.html): The Five-Year Fight for a Dial Tone
-- [Sun King and d.light](https://globalsouth.capsrow.com/company/sun-king-d-light.html): Hundreds of millions of people, off the grid, powered.
-- [Tabby](https://globalsouth.capsrow.com/company/tabby-tamara.html): Two in three Gulf adults are registered.
-- [Tamara](https://globalsouth.capsrow.com/company/tamara.html): Six million customers. Launched 2020.
-- [Tan Hooi Ling](https://globalsouth.capsrow.com/founder/tan-hooi-ling.html): The Operator Who Called Herself a Plumber
-- [The connected majority arrived, and it lives in the Global South.](https://globalsouth.capsrow.com/company/smartphone-penetration.html): The internet became a majority-human experience on a phone bought in the Global South.
-- [The diaspora sends more than aid.](https://globalsouth.capsrow.com/company/the-diaspora-sends-more-than-aid.html): The largest development programme in the Global South has no headquarters.
-- [The median African is nineteen. The median European is forty-two.](https://globalsouth.capsrow.com/company/africa-s-median-age.html): The youngest continent on earth is also the fastest-building one.
-- [TII Falcon](https://globalsouth.capsrow.com/company/falcon-open-model.html): Abu Dhabi built a frontier model, then gave it away.
-- [UPI](https://globalsouth.capsrow.com/company/upi-2016.html): 44 banks in 2016. 703 today.
-- [VinFast](https://globalsouth.capsrow.com/company/vinfast-escooters.html): Vietnam is electrifying its streets from the scooter up.
-- [Wave](https://globalsouth.capsrow.com/company/wave.html): One percent to send. Nothing to deposit.
-- [Women's account ownership nearly doubled in a decade.](https://globalsouth.capsrow.com/company/account-gender-gap-closing.html): The most important number in financial inclusion is the one that is shrinking.
-- [Yape](https://globalsouth.capsrow.com/company/yape.html): 20 million users. Launched 2017.
-- [Yotta](https://globalsouth.capsrow.com/company/yotta-shakti-gpus.html): India's AI models no longer have to train on rented foreign machines.
+- [5 things the Global South is building beyond fintech](https://globalsouth.capsrow.com/company/beyond-fintech): Beyond fintech, a different stack is going up across the Global South.
+- [A decade of light, counted in people.](https://globalsouth.capsrow.com/company/off-grid-solar-decade): Energy access across Africa is being counted one household at a time, not one power plant at a time.
+- [Abdulmajeed Alsukhan](https://globalsouth.capsrow.com/founder/abdulmajeed-alsukhan): Credit Without the Debt Trap
+- [Adani Green](https://globalsouth.capsrow.com/company/adani-khavda): On salt-desert where nothing grows, India is building the world's largest renewable park.
+- [Africa still trades far more with the world than with itself.](https://globalsouth.capsrow.com/company/afcfta-trade-runway): Africa's largest trading partner is not a country - it is the rest of the world.
+- [Al Dhafra Solar](https://globalsouth.capsrow.com/company/al-dhafra-solar): One desert, four million panels.
+- [Andela](https://globalsouth.capsrow.com/company/andela): Lagos, 2014. Now a network across the continent.
+- [Awarri](https://globalsouth.capsrow.com/company/awarri-nigeria-llm): Nigeria is crowdsourcing the data for its own large language model.
+- [Benban Solar Park](https://globalsouth.capsrow.com/company/benban-solar): Egypt turned a stretch of desert into Africa's largest solar park.
+- [Bitso](https://globalsouth.capsrow.com/company/bitso): Nine million users. The rail under a family's remittance.
+- [bKash](https://globalsouth.capsrow.com/company/bkash): 83 million customers.
+- [Cassava](https://globalsouth.capsrow.com/company/cassava-ai-factory): Africa's first AI factory is being built in Johannesburg.
+- [CBN](https://globalsouth.capsrow.com/company/nigeria-data-localisation): From 2027, the payment data stays onshore.
+- [Chipper Cash](https://globalsouth.capsrow.com/company/chipper-cash): Money that crosses the border like a text.
+- [Clip](https://globalsouth.capsrow.com/company/clip): The terminal was in their pocket all along.
+- [Credit without a bureau](https://globalsouth.capsrow.com/company/no-bureau-lending): Most of the world has no credit score.
+- [Creditas](https://globalsouth.capsrow.com/company/creditas): Credit priced on what you already hold.
+- [Dangote Refinery](https://globalsouth.capsrow.com/company/dangote-refinery-decade): A decade to the world's largest refinery.
+- [DeHaat](https://globalsouth.capsrow.com/company/dehaat): Inputs, advice, and the market in one place.
+- [dLocal](https://globalsouth.capsrow.com/company/dlocal): One integration. Forty-plus countries.
+- [Easypaisa & JazzCash](https://globalsouth.capsrow.com/company/easypaisa-jazzcash): Tens of millions banked from a phone, not a branch.
+- [Falguni Nayar](https://globalsouth.capsrow.com/founder/falguni-nayar): Founding at Fifty
+- [Fawry](https://globalsouth.capsrow.com/company/fawry): 53 million customers. Almost no branches.
+- [For every dollar of aid, families send home two and a half.](https://globalsouth.capsrow.com/company/remittances-vs-aid): The largest flow of capital into the Global South does not come from a fund.
+- [GCash](https://globalsouth.capsrow.com/company/gcash): The account most Filipinos actually use.
+- [Global South](https://globalsouth.capsrow.com/company/sovereign-ai-compute-map): Where is sovereign AI compute being built across the Global South?
+- [Gogoro](https://globalsouth.capsrow.com/company/gogoro-battery-swap): Taiwan built an electric refuelling grid - swap an empty battery for a full one in seconds.
+- [Ham Serunjogi](https://globalsouth.capsrow.com/founder/ham-serunjogi): Building Africa's Rails from the Diaspora
+- [HUMAIN](https://globalsouth.capsrow.com/company/saudi-sovereign-ai): The model and the machines, both built at home.
+- [Husk Power](https://globalsouth.capsrow.com/company/husk-minigrids): Where the national grid stops, Husk builds one minigrid at a time.
+- [In Bangladesh, wages come home in minutes.](https://globalsouth.capsrow.com/company/bkash-one-line): For millions, a paycheck used to take days to reach home.
+- [In Brazil, cards lost to a free rail.](https://globalsouth.capsrow.com/company/pix-vs-cards-one-line): It took a free public rail barely a year to beat the card networks.
+- [In Kenya, to pay is to M-Pesa.](https://globalsouth.capsrow.com/company/to-pay-is-to-m-pesa): Some products get used.
+- [In Latin America, the account went from rare to routine.](https://globalsouth.capsrow.com/company/latam-account-ownership-surge): In one generation, a bank account in Latin America stopped being a privilege.
+- [In most of the Global South, informal work is the work.](https://globalsouth.capsrow.com/company/informal-economy-share): The informal economy is not the exception in the Global South - it is the economy.
+- [InstaDeep](https://globalsouth.capsrow.com/company/instadeep-early-warning): An AI built in Tunis saw the variant before the WHO named it.
+- [Karim Beguir](https://globalsouth.capsrow.com/founder/karim-beguir): African AI at the Global Frontier
+- [KenGen](https://globalsouth.capsrow.com/company/kengen-olkaria-geothermal): Kenya drilled the Rift Valley into Africa's largest geothermal grid.
+- [Konfio](https://globalsouth.capsrow.com/company/konfio): A loan decision in minutes, not months.
+- [Lelapa AI - InkubaLM](https://globalsouth.capsrow.com/company/lelapa-inkubalm): African languages deserve their own AI.
+- [Lori Systems](https://globalsouth.capsrow.com/company/lori-kobo360): The empty truck, finally matched to the load.
+- [M-KOPA](https://globalsouth.capsrow.com/company/m-kopa): Around 40 shillings a day. Five million customers.
+- [M-Pesa](https://globalsouth.capsrow.com/company/m-pesa): Since 2007. On a feature phone.
+- [Marcos Galperin](https://globalsouth.capsrow.com/founder/marcos-galperin): The Rails Under Latin American Commerce
+- [Mercado Pago](https://globalsouth.capsrow.com/company/mercado-pago): Nearly 78 million monthly accounts.
+- [Mitchell Elegbe](https://globalsouth.capsrow.com/company/interswitch): Lagos, 2002.
+- [Mobile money doubled to two billion accounts in five years.](https://globalsouth.capsrow.com/company/rails-counted): Count financial inclusion in people, not dollars, and the Global South stops looking like a frontier.
+- [MoMo](https://globalsouth.capsrow.com/company/momo): 30 million users and counting.
+- [Moniepoint](https://globalsouth.capsrow.com/company/moniepoint): The shop on the corner is the branch.
+- [Mounir Nakhla](https://globalsouth.capsrow.com/founder/mounir-nakhla): He Banked the Tuk-Tuk Drivers Everyone Called Criminals
+- [Mudassir Sheikha](https://globalsouth.capsrow.com/company/careem): Dubai, 2012.
+- [Mudassir Sheikha](https://globalsouth.capsrow.com/founder/mudassir-sheikha): Local Solutions to Local Problems
+- [Nadiem Makarim](https://globalsouth.capsrow.com/founder/nadiem-makarim): From Motorbike Dispatch to a Nation's Super-App
+- [Nagad](https://globalsouth.capsrow.com/company/nagad): A wallet built on the postal network.
+- [Nequi](https://globalsouth.capsrow.com/company/nequi): 22 million users. Half of Colombia's adults.
+- [Nubank](https://globalsouth.capsrow.com/company/nubank): Sao Paulo, 2013. The moat was the customer, not the branch.
+- [One collapse: how India made data almost free.](https://globalsouth.capsrow.com/company/jio-s-price-collapse): One price collapse rewired how a billion people live online.
+- [One country clears more real-time payments than the rest of the world combined.](https://globalsouth.capsrow.com/company/upi-vs-world-real-time): The world's busiest payment rail runs out of South Asia, and it was built as public infrastructure.
+- [One map: the human last mile beats the branch.](https://globalsouth.capsrow.com/company/the-agent-economy): One map explains how Africa banked itself without branches.
+- [One number: 94 million Filipinos, one wallet.](https://globalsouth.capsrow.com/company/gcash-one-number): One number tells the whole story of Philippine money.
+- [One rail reached most of Brazil in three years.](https://globalsouth.capsrow.com/company/pix-in-three-years): One rail reached most of a country in three years flat.
+- [One rail. Every bank in India.](https://globalsouth.capsrow.com/company/upi-in-one-month): India didn't wait for the card networks.
+- [One refinery. Fuel for a nation.](https://globalsouth.capsrow.com/company/dangote-refinery-fact): For decades, Africa's biggest oil producer imported the fuel it burned.
+- [OPay](https://globalsouth.capsrow.com/company/opay): 40 million users. A shop on every corner.
+- [Pawan Chandana](https://globalsouth.capsrow.com/founder/pawan-chandana): The Engineer Who Left the Launchpad to Build His Own
+- [Paymob](https://globalsouth.capsrow.com/company/paymob): The checkout, wired for the whole region.
+- [Peter Njonjo](https://globalsouth.capsrow.com/company/twiga): Nairobi, 2014.
+- [Peter Njonjo](https://globalsouth.capsrow.com/founder/peter-njonjo): Making the Kiosk the Customer
+- [Pezesha](https://globalsouth.capsrow.com/company/pezesha): Hilda Moraa built the layer everyone else lends through.
+- [PicPay](https://globalsouth.capsrow.com/company/picpay): Sixty-four million accounts. It started as a way to split the bill.
+- [Pierpaolo Barbieri](https://globalsouth.capsrow.com/founder/pierpaolo-barbieri): Banking Argentina's Unbanked
+- [Pix](https://globalsouth.capsrow.com/company/pix): Launched 2020. Nine in ten adults today.
+- [Power comes first](https://globalsouth.capsrow.com/company/power-first): No grid, no anything else.
+- [QRIS](https://globalsouth.capsrow.com/company/qris-indonesia): One code every wallet in Indonesia reads.
+- [Rappi](https://globalsouth.capsrow.com/company/rappi): Nine countries. One app for almost everything.
+- [Reliance Jio](https://globalsouth.capsrow.com/company/reliance-jio): The rail that put the internet in every pocket.
+- [Sabi](https://globalsouth.capsrow.com/company/sabi-omniretail): The corner shop, finally on the grid.
+- [Sarvam AI](https://globalsouth.capsrow.com/company/sarvam-sovereign-llm): India is building AI that speaks like India.
+- [Shola Akinlade](https://globalsouth.capsrow.com/founder/akinlade): Building Africa's Payment Stack
+- [stc pay](https://globalsouth.capsrow.com/company/stc-pay): 12 million users. Now a licensed bank.
+- [Stori](https://globalsouth.capsrow.com/company/stori): The first card, for the first-time borrower.
+- [Strive Masiyiwa](https://globalsouth.capsrow.com/founder/strive-masiyiwa): The Five-Year Fight for a Dial Tone
+- [Sun King and d.light](https://globalsouth.capsrow.com/company/sun-king-d-light): Hundreds of millions of people, off the grid, powered.
+- [Tabby](https://globalsouth.capsrow.com/company/tabby-tamara): Two in three Gulf adults are registered.
+- [Tamara](https://globalsouth.capsrow.com/company/tamara): Six million customers. Launched 2020.
+- [Tan Hooi Ling](https://globalsouth.capsrow.com/founder/tan-hooi-ling): The Operator Who Called Herself a Plumber
+- [The connected majority arrived, and it lives in the Global South.](https://globalsouth.capsrow.com/company/smartphone-penetration): The internet became a majority-human experience on a phone bought in the Global South.
+- [The diaspora sends more than aid.](https://globalsouth.capsrow.com/company/the-diaspora-sends-more-than-aid): The largest development programme in the Global South has no headquarters.
+- [The median African is nineteen. The median European is forty-two.](https://globalsouth.capsrow.com/company/africa-s-median-age): The youngest continent on earth is also the fastest-building one.
+- [TII Falcon](https://globalsouth.capsrow.com/company/falcon-open-model): Abu Dhabi built a frontier model, then gave it away.
+- [UPI](https://globalsouth.capsrow.com/company/upi-2016): 44 banks in 2016. 703 today.
+- [VinFast](https://globalsouth.capsrow.com/company/vinfast-escooters): Vietnam is electrifying its streets from the scooter up.
+- [Wave](https://globalsouth.capsrow.com/company/wave): One percent to send. Nothing to deposit.
+- [Women's account ownership nearly doubled in a decade.](https://globalsouth.capsrow.com/company/account-gender-gap-closing): The most important number in financial inclusion is the one that is shrinking.
+- [Yape](https://globalsouth.capsrow.com/company/yape): 20 million users. Launched 2017.
+- [Yotta](https://globalsouth.capsrow.com/company/yotta-shakti-gpus): India's AI models no longer have to train on rented foreign machines.
